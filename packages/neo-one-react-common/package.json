@@ -24,7 +24,7 @@
     "react-select": "^3.0.4",
     "styled-tools": "^1.7.1",
     "trackjs": "^3.7.0",
-    "tslib": "^1.10.0"
+    "tslib": "^2.0.0"
   },
   "devDependencies": {
     "@neo-one/build-tools": "^1.0.0",

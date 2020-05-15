@@ -11,7 +11,7 @@
     "tsc": "node ./node_modules/@neo-one/build-tools/bin/neo-one-tsc.js"
   },
   "dependencies": {
-    "tslib": "^1.10.0"
+    "tslib": "^2.0.0"
   },
   "peerDependencies": {
     "@types/react": "^16.0.0",
